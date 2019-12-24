@@ -1,3 +1,15 @@
+
+# 源码分析
+
+## 外部模块依赖
+
+请在： http://npm.broofa.com?q=ant-design-vue 查看
+
+## 内部模块依赖
+
+![img](./inner.svg)
+  
+
 <p align="center">
   <a href="https://www.antdv.com/">
     <img width="200" src="https://qn.antdv.com/logo.png">
